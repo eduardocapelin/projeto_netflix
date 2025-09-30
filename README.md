@@ -1,4 +1,4 @@
-# 🎬 Data Pipeline Netflix – Snowflake | dbt | Airbyte | Power BI
+# 🎬 Data Pipeline Netflix – PostgreSQL | Snowflake | dbt | Airbyte | Power BI
 
 Este projeto tem como objetivo **construir um pipeline de dados moderno** utilizando ferramentas amplamente adotadas no mercado de dados, integrando diferentes camadas (bronze, prata e ouro) até a criação de um **dashboard interativo em Power BI**.
 
