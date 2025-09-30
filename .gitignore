@@ -1,0 +1,9 @@
+.env
+*.pbix
+*.pptx
+*.drawio
+*.svg
+*.docx
+*.pdf
+*.png
+*.csv
