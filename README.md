@@ -59,7 +59,6 @@ Alguns exemplos de análises desenvolvidas:
 - Diversidade de produções entre séries e filmes.
 
 ![Dashboard1](docs/Imagem1.png)
-![Dashboard2](docs/Imagem2.png)
 
 ---
 
